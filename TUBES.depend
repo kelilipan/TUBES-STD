@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1524910549 source:x:\project or somtin else\strukdat\tubes\double.cpp
+	"double.h"
+	<windows.h>
+
+1524920655 source:x:\project or somtin else\strukdat\tubes\main.cpp
+	"double.h"
+	"circular.h"
+	"head.h"
+
+1524916008 x:\project or somtin else\strukdat\tubes\double.h
+	<iostream>
+	"circular.h"
+
+1524925292 x:\project or somtin else\strukdat\tubes\head.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<cstdlib>
+	<iomanip>
+	<windows.h>
+	"double.h"
+	"circular.h"
+
+1524545012 x:\project or somtin else\strukdat\tubes\circular.h
+	<iostream>
+
+1524906080 source:x:\project or somtin else\strukdat\tubes\circular.cpp
+	"circular.h"
+
+1524925465 source:x:\project or somtin else\strukdat\tubes\menu.cpp
+	"double.h"
+	"circular.h"
+	"head.h"
+
+1525066268 source:c:\users\hp\desktop\tubes\double.cpp
+	"double.h"
+	<windows.h>
+
+1524995062 c:\users\hp\desktop\tubes\double.h
+	<iostream>
+	"circular.h"
+
+1524930730 c:\users\hp\desktop\tubes\circular.h
+	<iostream>
+
+1524920656 source:c:\users\hp\desktop\tubes\main.cpp
+	"double.h"
+	"circular.h"
+	"head.h"
+
+1525022448 c:\users\hp\desktop\tubes\head.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<cstdlib>
+	<iomanip>
+	<windows.h>
+	"double.h"
+	"circular.h"
+
+1525060076 source:c:\users\hp\desktop\tubes\menu.cpp
+	"double.h"
+	"circular.h"
+	"head.h"
+
+1525015000 source:c:\users\hp\desktop\tubes\circular.cpp
+	"circular.h"
+
+1524985524 source:z:\tubes\circular.cpp
+	"circular.h"
+
+1524930729 z:\tubes\circular.h
+	<iostream>
+
+1524977273 source:z:\tubes\double.cpp
+	"double.h"
+	<windows.h>
+
+1524995061 z:\tubes\double.h
+	<iostream>
+	"circular.h"
+
+1524920656 source:z:\tubes\main.cpp
+	"double.h"
+	"circular.h"
+	"head.h"
+
+1524985358 z:\tubes\head.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<cstdlib>
+	<iomanip>
+	<windows.h>
+	"double.h"
+	"circular.h"
+
+1525002206 source:z:\tubes\menu.cpp
+	"double.h"
+	"circular.h"
+	"head.h"
+
